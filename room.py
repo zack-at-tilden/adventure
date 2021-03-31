@@ -10,5 +10,5 @@ class Room:
 		self.south=south
 		self.east=east
 		self.west=west
-		self.items=times
+		self.items=items
 		
